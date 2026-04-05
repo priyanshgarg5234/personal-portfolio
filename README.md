@@ -1,6 +1,6 @@
-# Alex Rivera — Developer Portfolio
+# Priyansh Garg— Developer Portfolio
 
-A modern, fully responsive personal portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
+A modern, fully responsive personal portfolio built with **React**, **Vite**, **Tailwind CSS**
 
 ---
 
